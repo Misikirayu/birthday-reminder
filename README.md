@@ -1,5 +1,5 @@
 
-## Birthday remider , react.js project
+## Birthday reminder , react.js project
 
 
 ## Idea
